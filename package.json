@@ -1,9 +1,18 @@
 {
   "name": "hyprland-studio",
-  "author": "ben",
   "displayName": "Hyprland Studio",
   "description": "Development tools for Hyprland and Quickshell",
   "version": "0.0.1",
+  "publisher": "feniix",
+  "author": {
+    "name": "benzwd",
+    "url": "https://github.com/benzwd"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benzwd/quickshell-studio.git"
+  },
   "engines": {
     "vscode": "^1.145.0"
   },
