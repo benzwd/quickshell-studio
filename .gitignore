@@ -1,0 +1,12 @@
+out
+dist
+node_modules
+.vscode-test/
+*.vsix
+
+# Local files
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
